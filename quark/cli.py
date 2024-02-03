@@ -453,3 +453,4 @@ def update_rule_buffer(rule_buffer_list, rule_path_list):
 
 if __name__ == "__main__":
     entry_point()
+    print('end')
